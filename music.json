@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "SongName": "Diwali",
+        "AlbumName": "Apurva",
+        "Poster": "<img src='./Music-poster/Diwali.jpeg'></img>",
+        "FullPoster": "<img src='./poster/diwali.jpg'></img>",
+        "Music": "./Music/Diwali.m4a"
+      },
+      {
+        "id": 2,
+        "SongName": "Aaj ke Baad",
+        "AlbumName": "Stay prem ki khata",
+        "Poster": "<img src='./Music-poster/aaj ke baad.jpeg'></img>",
+        "FullPoster": "<img src='./poster/aaj.jpg'></img>",
+        "Music": "./Music/Aaj Ke Baad.m4a"
+      },
+      {
+        "id": 3,
+        "SongName": "Apna Bana",
+        "AlbumName": "Bhediya",
+        "Poster": "<img src='./Music-poster/apna.jpeg'></img>",
+        "FullPoster": "<img src='./poster/apna.jpg'></img>",
+        "Music": "./Music/Apna Bana Le.m4a"
+      },
+      {
+        "id": 4,
+        "SongName": "Chaleya",
+        "AlbumName": "Jawaan",
+        "Poster": "<img src='./Music-poster/chaleya.jpeg'></img>",
+        "FullPoster": "<img src='./poster/chaleya.jpg'></img>",
+        "Music": "./Music/Chaleya.m4a"
+      },
+      {
+        "id": 5,
+        "SongName": "Kesariya",
+        "AlbumName": "Bhrmastra",
+        "Poster": "<img src='./Music-poster/kesariya.jpeg'></img>",
+        "FullPoster": "<img src='./poster/Kesariya.jpg'></img>",
+        "Music": "./Music/Kesariya.m4a"
+      },
+      {
+        "id": 6,
+        "SongName": "Raataan Lambiyan",
+        "AlbumName": "Shershah",
+        "Poster": "<img src='./Music-poster/Raataan Lambiyan.jpeg'></img>",
+        "FullPoster": "<img src='./poster/raataan.jpg'></img>",
+        "Music": "./Music/Raataan Lambiyan.m4a"
+      },
+      {
+        "id": 7,
+        "SongName": "Closer",
+        "AlbumName": "Closer",
+        "FullPoster": "<img src='./poster/closer.jpg'></img>",
+        "Poster": "<img src='./Music-poster/closer.jpeg'></img>",
+        "Music": "./Music/Closer.m4a"
+      },
+      {
+        "id": 8,
+        "SongName": "Let me love",
+        "AlbumName": "let Me",
+        "FullPoster": "<img src='./poster/take me.jpeg'></img>",
+        "Poster": "<img src='./Music-poster/let me.jpeg'></img>",
+        "Music": "./Music/Let Me Love You.m4a"
+      },
+      {
+        "id": 9,
+        "SongName": "On My Way",
+        "AlbumName": "Allen Walker",
+        "FullPoster": "<img src='./poster/alone1b.jpg'></img>",
+        "Poster": "<img src='./Music-poster/on my way.jpeg'></img>",
+        "Music": "./Music/On My Way.m4a"
+      }
+]
